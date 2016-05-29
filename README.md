@@ -1,0 +1,1 @@
+# Factor-analysis-eveluation-of-image-attributes-importance-for-consumers
